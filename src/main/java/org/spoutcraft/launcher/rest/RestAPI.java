@@ -193,7 +193,7 @@ public class RestAPI {
 
 	public static RestAPI getDefault() {
 		if (TECHNIC == null) {
-			TECHNIC = new RestAPI("http://solder.technicraft.cz/api/");
+			TECHNIC = new RestAPI("http://api.chandlershax.com/api/");
 			setupDefault();
 		}
 
