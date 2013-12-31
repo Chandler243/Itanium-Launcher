@@ -1,8 +1,7 @@
-<p align="center">
-<img src="http://i.imgur.com/02zBfbJ.png" />
-</p>
-TechniCraft Launcher by Majncraft.cz team
+Itanium Launcher by Chandler243
 ==================================================================
-Used for Majncraft servers (Majncraft and TechniCraft) and for some friendly ModPacks
+Itanium Launcher is based off of the Technicraft Launcher, which is based off of Technic Laucnher, which is based off of Spoutcraft Launcher.
 
-- Latest builds: http://ci.technicraft.cz/job/TechniCraft%20Launcher/
+Woah.
+
+- The latest buils can be found at http://ci.chandlershax.com

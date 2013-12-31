@@ -3,12 +3,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<!-- Project information -->
-	<name>TechniCraft Launcher</name>
+	<name>Itanium Launcher</name>
 	<groupId>org.spoutcraft</groupId>
-	<artifactId>TechniCraft</artifactId>
-	<version>2.0-${buildNumber}</version>
-	<url>http://technicraft.cz</url>
-	<description>Custom launcher for installing and updating Majncraft and Technicraft related modpacks.</description>
+	<artifactId>Itanium</artifactId>
+	<version>1.0-${buildNumber}</version>
+	<url>http://Itanium.com</url>
+	<description>Custom launcher for ChandlersHax based packs.</description>
 
 	<!-- Build properties -->
 	<properties>
@@ -24,8 +24,8 @@
 
 	<!-- Company information -->
 	<organization>
-		<url>http://www.technicraft.cz</url>
-		<name>TechniCraft.cz</name>
+		<url>http://www.chandlershax.com</url>
+		<name>ChandlersHax.com</name>
 	</organization>
 
 	<!-- License information -->
@@ -40,15 +40,15 @@
 
 	<!-- Source code access -->
 	<scm>
-		<developerConnection>scm:git:git@github.com:/dewick/TechniCraft.git</developerConnection>
-		<connection>scm:git:git://github.com//dewick/TechniCraft.git</connection>
-		<url>https://github.com/dewick/TechniCraft/tree/master</url>
+		<developerConnection>scm:git:git@github.com:/Chandler243/Itanium-Launcher.git</developerConnection>
+		<connection>scm:git:git://github.com/Chandler243/Itanium-Launcher.git</connection>
+		<url>https://github.com/Chandler243/Itanium-Launcher</url>
 	</scm>
 
 	<!-- Build server -->
 	<ciManagement>
 		<system>jenkins</system>
-		<url>http://ci.technicraft.cz/job/TechnicLauncher/</url>
+		<url>http://ci.Itanium.com/</url>
 	</ciManagement>
 
 	<!-- Dependency repositories -->
