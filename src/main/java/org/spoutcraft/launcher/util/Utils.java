@@ -79,7 +79,7 @@ public class Utils {
 
 	public static File getLauncherDirectory() {
 		if (workDir == null) {
-			workDir = getWorkingDirectory("technicraft");
+			workDir = getWorkingDirectory("itanium");
 			boolean exists = workDir.exists();
 			if (!exists && !workDir.mkdirs()) {
 				throw new RuntimeException(lang("utils.cantcreateworkdir")+" " + workDir);
