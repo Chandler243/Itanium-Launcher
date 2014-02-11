@@ -88,9 +88,9 @@ public class Start {
 		try {
 			latest = RestAPI.getLatestLauncherBuild(buildStream);
 			if (buildStream.equals("beta") && version < latest) {
-				update = true;
+				update = false;
 			} else if (buildStream.equals("stable") && version != latest) {
-				update = true;
+				update = false;
 			}
 		} catch (RestfulAPIException e) {
 			e.printStackTrace();
